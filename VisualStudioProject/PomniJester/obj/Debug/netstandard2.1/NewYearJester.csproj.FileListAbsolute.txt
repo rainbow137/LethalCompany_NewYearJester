@@ -1,0 +1,14 @@
+D:\桌面\tools\PomniJester-main\PomniJester-main\PomniJester\bin\Debug\netstandard2.1\NewYearJester.deps.json
+D:\桌面\tools\PomniJester-main\PomniJester-main\PomniJester\bin\Debug\netstandard2.1\NewYearJester.dll
+D:\桌面\tools\PomniJester-main\PomniJester-main\PomniJester\bin\Debug\netstandard2.1\NewYearJester.pdb
+D:\桌面\tools\PomniJester-main\PomniJester-main\PomniJester\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+D:\桌面\tools\PomniJester-main\PomniJester-main\PomniJester\bin\Debug\netstandard2.1\Unity.Netcode.Runtime.dll
+D:\桌面\tools\PomniJester-main\PomniJester-main\PomniJester\obj\Debug\netstandard2.1\NewYearJester.csproj.AssemblyReference.cache
+D:\桌面\tools\PomniJester-main\PomniJester-main\PomniJester\obj\Debug\netstandard2.1\MyPluginInfo.cs
+D:\桌面\tools\PomniJester-main\PomniJester-main\PomniJester\obj\Debug\netstandard2.1\NewYearJester.GeneratedMSBuildEditorConfig.editorconfig
+D:\桌面\tools\PomniJester-main\PomniJester-main\PomniJester\obj\Debug\netstandard2.1\NewYearJester.AssemblyInfoInputs.cache
+D:\桌面\tools\PomniJester-main\PomniJester-main\PomniJester\obj\Debug\netstandard2.1\NewYearJester.AssemblyInfo.cs
+D:\桌面\tools\PomniJester-main\PomniJester-main\PomniJester\obj\Debug\netstandard2.1\NewYearJester.csproj.CoreCompileInputs.cache
+D:\桌面\tools\PomniJester-main\PomniJester-main\PomniJester\obj\Debug\netstandard2.1\NewYearJester.csproj.CopyComplete
+D:\桌面\tools\PomniJester-main\PomniJester-main\PomniJester\obj\Debug\netstandard2.1\NewYearJester.dll
+D:\桌面\tools\PomniJester-main\PomniJester-main\PomniJester\obj\Debug\netstandard2.1\NewYearJester.pdb
